@@ -38,3 +38,6 @@ spring:
 jwt:
   secret: C2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OHC2H5OH
   expiration: 28800 # 8 hours
+
+url:
+  frontend: https://calculator-ui-peach.vercel.app/
